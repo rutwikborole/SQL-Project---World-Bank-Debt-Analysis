@@ -1,1 +1,1 @@
-# SQL-Project---World-Bank-Debt-Analysis
+# SQL-Project World-Bank-Debt-Analysis
