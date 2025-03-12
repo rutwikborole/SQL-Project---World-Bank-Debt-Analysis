@@ -49,6 +49,6 @@ This repository contains a SQL-based analysis of international debt data compile
 World Bank: For providing the International Debt Statistics dataset.
 
 ## Future Improvements
-Enhance preprocessing to handle sparse data (e.g., retain rows with missing values for specific indicators).
-Add visualizations (e.g., bar charts for debt distribution) using libraries like matplotlib or seaborn.
-Expand analysis to include debt-to-GDP ratios or regional comparisons.
+- Enhance preprocessing to handle sparse data (e.g., retain rows with missing values for specific indicators).
+- Add visualizations (e.g., bar charts for debt distribution) using libraries like matplotlib or seaborn.
+- Expand analysis to include debt-to-GDP ratios or regional comparisons.
